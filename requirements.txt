@@ -1,6 +1,0 @@
-
-numpy==1.21.6
-Pillow==9.5.0
-requests==2.31.0
-tflite-runtime==2.7.0
-urllib3==2.0.2
